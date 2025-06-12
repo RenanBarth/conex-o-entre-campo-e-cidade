@@ -13,7 +13,7 @@ const projetos = [
   },
   {
     nome: "Caminho do Leite",
-    descricao: "Rede de entrega de laticínios orgânicos do campo à cidade.",
+    descricao: "Este percurso envolve a ordenha, o transporte para uma fábrica de processamento.",
   }
 ];
 
