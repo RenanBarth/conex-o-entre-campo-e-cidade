@@ -5,7 +5,7 @@ const form = document.getElementById('conexaoForm');
 const projetos = [
   {
     nome: "Feira do Produtor Local",
-    descricao: "Agricultores da região vendem direto na cidade todo sábado.",
+    descricao: "é um mercado onde agricultores da região vendem diretamente aos consumidores os produtos que eles mesmos cultivam.",
   },
   {
     nome: "Horta Comunitária Urbana",
