@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: green;
-  color: #4c00ff;
+  color: black;
 }
 
 header {
@@ -13,6 +13,7 @@ header {
 }
 
 main {
+  color: white;
    background: url('floresta-6sk40qqvtlt496ub.jpg');
   padding: 2rem;
 }
