@@ -9,7 +9,7 @@ const projetos = [
   },
   {
     nome: "Horta Comunitária Urbana",
-    descricao: "Cidade cultiva parte de seus alimentos com ajuda de agricultores.",
+    descricao: "é um espaço em área urbana, geralmente pública ou compartilhada, onde membros da comunidade se reúnem para cultivar alimentos de forma colaborativa. ",
   },
   {
     nome: "Caminho do Leite",
