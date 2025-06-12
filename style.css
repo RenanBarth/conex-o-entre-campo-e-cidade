@@ -31,7 +31,7 @@ section {
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  width: calc(33% - 1rem);
+  width: calc(55% - 1rem);
 }
 
 form {
